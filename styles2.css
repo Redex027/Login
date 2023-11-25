@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+p {
+    margin: 10px 0 0;
+}
+
+section {
+    padding: 40px;
+}
+
+.projeto {
+    margin-bottom: 30px;
+}
+
+.projeto img {
+    width: 500px;
+    height: 250px;
+    border-radius: 8px;
+}
+
+#contato a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+#contato a:hover {
+    text-decoration: underline;
+}
